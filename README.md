@@ -29,8 +29,8 @@ Detailed Description:   
 --> Close the browser
 --> Key Automation Scope:
 --------------------------------------------------------------------------------------------------------
-Multiple browser handling
-Assign synchronization technique
-Navigation to Home page
-Exception Handling
-Locating Elements
+--> Multiple browser handling
+--> Assign synchronization technique
+--> Navigation to Home page
+--> Exception Handling
+--> Locating Elements
