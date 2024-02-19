@@ -20,9 +20,9 @@ Detailed Description:   
  -Check if the home page of the application is loaded.
  -In the search box enter the search criteria “Home appliances”.
  -Click on the first product and add to the cart.
-- Display the order amount in console.
-- Close the new tab and go back to Home appliances page again.
-- Add one more item to the cart.
+ -Display the order amount in console.
+ -Close the new tab and go back to Home appliances page again.
+ -Add one more item to the cart.
  -Display the revised Total order amount in the console.
  -Validate if the amount is properly calculated.
  -Close the browser
